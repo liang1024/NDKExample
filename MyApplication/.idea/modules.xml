@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Jni_Hello/Jni_Hello.iml" filepath="$PROJECT_DIR$/Jni_Hello/Jni_Hello.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jni_datatype/jni_datatype.iml" filepath="$PROJECT_DIR$/jni_datatype/jni_datatype.iml" />
     </modules>
   </component>
 </project>
