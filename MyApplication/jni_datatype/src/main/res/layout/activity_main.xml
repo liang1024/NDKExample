@@ -25,9 +25,9 @@
         android:text="通过JNI取int值相加"
         />
 
-    <!--    <Button
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:onClick="bt_addint"
-            android:text="通过JNI取int值相加"/>-->
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="bt_IntArray"
+        android:text=""/>
 </LinearLayout>

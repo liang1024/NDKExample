@@ -13,5 +13,5 @@ public class Jni {
 
     public native int add(int a, int b);
 
-
+    public native int[] arrElementsIncrease(int[] intArray);
 }
